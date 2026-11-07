@@ -1,6 +1,6 @@
 # secureship
 
-Author: <Michael Ganidekam>
+Author: Michael Ganidekam
 
 A small weather app used to practise Git and GitHub security.
 
