@@ -1,7 +1,7 @@
 # secureship
 
-Author: <your full name>
+Author: Michael Ganidekam
 
 A small weather app used to practise Git and GitHub security.
 
-Status: in progress
+Status: building the weather app
